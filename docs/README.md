@@ -9,11 +9,11 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 
 **Виконали:** 
 
-*студенти [X]-го курсу, групи (шифр групи)* 
+*студенти 3-го курсу, групи ІО-91 та ІВ-91* 
 
-**[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
+**Гученко Софія [sogucci](https://t.me/sogucci)**
 
-**[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
+**Пуховська Анна [fantasy_maniac](https://t.me/fantasy_maniac)**
 
 
 **Керівник**
